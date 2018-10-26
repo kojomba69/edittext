@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">edittext</string>
+    <string name="edittexthint">입력하세요</string>
+</resources>
